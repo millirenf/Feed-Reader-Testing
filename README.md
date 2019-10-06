@@ -80,3 +80,9 @@ To Use this website, simply navigate to the URL and refresh the page whenever yo
 
 This website also offers filtering so you can narrow your topic search.
     Simply click the menu icon in the upper left hand corner of the page and select which topic you would like to know more about!
+
+How to run the Feed Reader application:
+    1. Clone the repository or download the zip file from Git Hub
+    2. open the 'index.html' file in your browser
+    3. The Feed Reader Tests can be seen at the bottom
+    4. To add or modify tests, use the 'feedreader.js' file inside the Jasmine folder
